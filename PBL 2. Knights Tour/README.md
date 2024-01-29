@@ -69,3 +69,10 @@ This repository contains a Python program that solves the Knight's Tour problem 
 
 - 'knight_GUI.py': The main Python script for solving and visualizing the Knight's Tour problem.
 - 'PBL2 The Knights Tour report.pdf': A detailed report explaining the algorithm, code structure, and performance analysis.
+
+## Acknowledgments
+This project's solution references the Knight's Tour algorithm as explained on [GeeksforGeeks](https://www.geeksforgeeks.org/warnsdorffs-algorithm-knights-tour-problem/). We are grateful for the comprehensive resources and explanations provided, which significantly aided in understanding and implementing the Warnsdorff's algorithm for the Knight's Tour problem.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
