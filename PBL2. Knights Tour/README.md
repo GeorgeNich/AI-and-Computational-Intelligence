@@ -51,6 +51,8 @@ This repository contains a Python program that solves the Knight's Tour problem 
    ```bash
     pip install -r requirements.txt
 
+---
+
 ## Usage
 
 1. Run the program:
