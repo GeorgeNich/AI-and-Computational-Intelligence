@@ -51,3 +51,19 @@ This repository contains a Python program that solves the Knight's Tour problem 
    ```bash
     pip install -r requirements.txt
 
+## Usage
+
+1. Run the program:
+    ```bash
+    python knight_GUI.py
+
+2. Enter the value of n (the size of the chessboard). Ensure that n is greater than 4, as the Knight's Tour problem is meaningful for larger boards.
+
+3. The GUI will display the knight's moves on the chessboard, and you can watch the solution unfold.
+
+4. Once the tour is completed, the program will display a message with the time taken to solve the tour.
+
+## Usage
+
+- 'knight_GUI.py': The main Python script for solving and visualizing the Knight's Tour problem.
+- 'PBL2 The Knights Tour report.pdf': A detailed report explaining the algorithm, code structure, and performance analysis.
