@@ -15,6 +15,11 @@ To play the game, follow these steps:
     ```bash
       python main.py
 
+## Game Files
+- [Game Report (PDF)](PBL%203%20The%20Game%20of%20Nim%20report.pdf) - Detailed report on the project.
+- [main.py](main.py) - Main Python script for the game.
+- [soloution.py](soloution.py) - Python script containing the Minimax algorithm for the game.
+
 ## Features
 - Interactive player input for game moves.
 - AI opponent using the Minimax algorithm.
