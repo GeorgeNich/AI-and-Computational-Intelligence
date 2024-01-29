@@ -19,12 +19,13 @@ Ensure you have Python installed on your machine. To install the required librar
 ```bash
 pip install numpy matplotlib scikit-fuzzy
 
-Running the Notebook
-Open the Jupyter notebook named PBL1_Fuzzy_Logic_Automatic_Braking_Controller.ipynb in your Jupyter environment to access the code, detailed explanations, and interactive visualizations.
+### Running the Notebook
+Open the Jupyter notebook named `PBL1_Fuzzy_Logic_Automatic_Braking_Controller.ipynb` in your Jupyter environment to access the code, detailed explanations, and interactive visualizations.
 
-Features
+## Features
 Our project includes the following key features:
 
-Fuzzy Logic Controller: We have implemented a sophisticated fuzzy logic system to calculate the optimal braking force based on vehicle speed and distance from an obstacle.
-Interactive Visualizations: The notebook includes insightful plots and interactive widgets that showcase how the system responds to different scenarios.
-Simulation: We have conducted real-world scenario simulations to rigorously test the effectiveness and reliability of the fuzzy logic controller.
+- **Fuzzy Logic Controller**: We have implemented a sophisticated fuzzy logic system to calculate the optimal braking force based on vehicle speed and distance from an obstacle.
+- **Interactive Visualizations**: The notebook includes insightful plots and interactive widgets that showcase how the system responds to different scenarios.
+- **Simulation**: We have conducted real-world scenario simulations to rigorously test the effectiveness and reliability of the fuzzy logic controller.
+
