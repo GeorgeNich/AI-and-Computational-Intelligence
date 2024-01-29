@@ -10,6 +10,13 @@ The project is organized as follows:
 - `README_FuzzyLogic_Introduction.md`: You are currently reading this introductory guide, which provides an overview of the project.
 - `SIT215_PBL1_Fuzzy_Car_Control_Report.pdf`: For a deeper dive into the project, you can explore our comprehensive report. It covers the project's background, methodology, results, and conclusions.
 
+## Features
+Our project includes the following key features:
+
+- **Fuzzy Logic Controller**: We have implemented a sophisticated fuzzy logic system to calculate the optimal braking force based on vehicle speed and distance from an obstacle.
+- **Interactive Visualizations**: The notebook includes insightful plots and interactive widgets that showcase how the system responds to different scenarios.
+- **Simulation**: We have conducted real-world scenario simulations to rigorously test the effectiveness and reliability of the fuzzy logic controller.
+
 ## Getting Started
 To run this project, you'll need a Python environment with the necessary libraries installed, including `numpy`, `matplotlib`, and `scikit-fuzzy`. Follow these steps to get started:
 
@@ -22,10 +29,5 @@ pip install numpy matplotlib scikit-fuzzy
 ### Running the Notebook
 Open the Jupyter notebook named `PBL1_Fuzzy_Logic_Automatic_Braking_Controller.ipynb` in your Jupyter environment to access the code, detailed explanations, and interactive visualizations.
 
-## Features
-Our project includes the following key features:
 
-- **Fuzzy Logic Controller**: We have implemented a sophisticated fuzzy logic system to calculate the optimal braking force based on vehicle speed and distance from an obstacle.
-- **Interactive Visualizations**: The notebook includes insightful plots and interactive widgets that showcase how the system responds to different scenarios.
-- **Simulation**: We have conducted real-world scenario simulations to rigorously test the effectiveness and reliability of the fuzzy logic controller.
 
