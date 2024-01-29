@@ -1,14 +1,16 @@
 # Fuzzy Logic Automatic Braking Controller
 
+# Fuzzy Logic Automatic Braking Controller
+
 ## Introduction
 Welcome to the Fuzzy Logic Automatic Braking Controller project, part of the `AI-and-Computational-Intelligence` series. This project aims to implement an intelligent Automatic Braking System using Fuzzy Logic. Our goal is to make informed decisions about braking, taking into account varying distances and speeds, similar to the decision-making process of an autonomous car.
 
 ## Project Structure
 The project is organized as follows:
 
-- `PBL1_Fuzzy_Logic_Automatic_Braking_Controller.ipynb`: This Jupyter notebook contains the comprehensive implementation of the fuzzy logic controller, complete with detailed explanations and interactive visualizations.
-- `README_FuzzyLogic_Introduction.md`: You are currently reading this introductory guide, which provides an overview of the project.
-- `SIT215_PBL1_Fuzzy_Car_Control_Report.pdf`: For a deeper dive into the project, you can explore our comprehensive report. It covers the project's background, methodology, results, and conclusions.
+- [`PBL1_Fuzzy_Logic_Automatic_Braking_Controller.ipynb`](./PBL1_Fuzzy_Logic_Automatic_Braking_Controller.ipynb): This Jupyter notebook contains the comprehensive implementation of the fuzzy logic controller, complete with detailed explanations and interactive visualizations.
+- [`README_FuzzyLogic_Introduction.md`](./README_FuzzyLogic_Introduction.md): You are currently reading this introductory guide, which provides an overview of the project.
+- [`SIT215_PBL1_Fuzzy_Car_Control_Report.pdf`](./SIT215_PBL1_Fuzzy_Car_Control_Report.pdf): For a deeper dive into the project, you can explore our comprehensive report. It covers the project's background, methodology, results, and conclusions.
 
 ## Features
 Our project includes the following key features:
