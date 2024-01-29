@@ -1,7 +1,16 @@
 # Nim Game
 
-## Introduction
-Nim is a mathematical game of strategy in which two players take turns removing objects from distinct heaps or piles. This Python project implements the Nim game, featuring an AI opponent using the Minimax algorithm with Alpha-Beta pruning.
+## Overview
+
+The Game of Nim is a classic strategy game with a rich history in mathematical theory and artificial intelligence. In this implementation, players compete against a computer AI to strategically remove objects from piles with one simple goal: avoid being the player who removes the last object.  This Python project implements the Nim game, featuring an AI opponent using the Minimax algorithm with Alpha-Beta pruning.
+
+Key Features:
+- Interactive gameplay allowing a player to challenge an AI opponent.
+- Implementation of the Minimax algorithm with Alpha-Beta pruning for efficient AI decision-making.
+- Configurable game settings for varying levels of difficulty and strategy.
+- Written in Python, demonstrating algorithmic problem-solving and game theory concepts.
+
+This project not only provides an engaging gaming experience but also serves as an educational tool to demonstrate AI principles in a simple yet profound strategy game context.
 
 ## Installation
 To play the Nim game, Python needs to be installed on your computer. Download and install Python from [here](https://www.python.org/downloads/).
@@ -19,12 +28,6 @@ To play the game, follow these steps:
 - [Game Report (PDF)](PBL%203%20The%20Game%20of%20Nim%20report.pdf) - Detailed report on the project.
 - [main.py](main.py) - Main Python script for the game.
 - [soloution.py](soloution.py) - Python script containing the Minimax algorithm for the game.
-
-## Features
-- Interactive player input for game moves.
-- AI opponent using the Minimax algorithm.
-- Configurable number of piles and objects.
-- Command-line interface for easy gameplay.
 
 ## Game Rules
 - The game starts with a number of piles of objects.
