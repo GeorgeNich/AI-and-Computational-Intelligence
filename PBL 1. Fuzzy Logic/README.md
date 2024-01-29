@@ -21,7 +21,7 @@ Our project includes the following key features:
 To run this project, you'll need a Python environment with the necessary libraries installed, including `numpy`, `matplotlib`, and `scikit-fuzzy`. Follow these steps to get started:
 
 ### Installation
-Ensure you have Python installed on your machine. To install the required libraries, run the following command in your terminal:
+Ensure you have Python installed on your machine aswell as Jupyter Notebook through anaconda preferbly. To install the required libraries, run the following command in your terminal:
 
 ```bash
 pip install numpy matplotlib scikit-fuzzy
