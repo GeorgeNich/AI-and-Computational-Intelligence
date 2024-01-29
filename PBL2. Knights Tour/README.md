@@ -65,7 +65,7 @@ This repository contains a Python program that solves the Knight's Tour problem 
 
 4. Once the tour is completed, the program will display a message with the time taken to solve the tour.
 
-## Usage
+## Code Structure
 
 - 'knight_GUI.py': The main Python script for solving and visualizing the Knight's Tour problem.
 - 'PBL2 The Knights Tour report.pdf': A detailed report explaining the algorithm, code structure, and performance analysis.
