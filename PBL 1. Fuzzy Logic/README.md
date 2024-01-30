@@ -1,6 +1,6 @@
 # Fuzzy Logic Automatic Braking Controller
 
-## Introduction
+## Overview
 Welcome to the Fuzzy Logic Automatic Braking Controller project, part of the `AI-and-Computational-Intelligence` series. This project aims to implement an intelligent Automatic Braking System using Fuzzy Logic. Our goal is to make informed decisions about braking, taking into account varying distances and speeds, similar to the decision-making process of an autonomous car.
 
 ## Project Structure
