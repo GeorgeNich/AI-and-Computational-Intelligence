@@ -1,6 +1,6 @@
 # The Knight's Tour
-![Knight's Tour GUI](knight_tour_demo.gif)
 
+![Knight's Tour GUI](knight_tour_demo.gif)
 ### Overview
 
 This repository contains a Python program that solves the Knight's Tour problem on an `n x n` chessboard. The Knight's Tour problem is a classic chess puzzle where the goal is to find a sequence of moves for a knight such that it visits every square on the board exactly once.
