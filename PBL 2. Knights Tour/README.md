@@ -1,4 +1,4 @@
-# PBL2: The Knight's Tour
+# The Knight's Tour
 
 ![Knight's Tour GUI](knight_tour_demo.gif)
 
