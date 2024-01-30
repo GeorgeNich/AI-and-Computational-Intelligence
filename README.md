@@ -1,7 +1,6 @@
-# Final Project: Reinforcement Learning Investigation
+# AI and Computational Intelligence
 
-## Introduction
-Welcome to the "Reinforcement Learning Investigation" project. This repository houses a series of Problem-Based Learning (PBL) projects focusing on different aspects and applications of Reinforcement Learning and AI. Each sub-project explores unique challenges and solutions in the field, demonstrating practical implementations and theoretical insights.
+Welcome to the AI and Computational Intelligence repository. This repository is a collection of Problem-Based Learning (PBL) projects, each focusing on different aspects of artificial intelligence, including fuzzy logic, the Knight's Tour problem, and the Game of Nim. These projects demonstrate practical applications and theoretical concepts in AI and computational intelligence.
 
 ## Projects Overview
 
