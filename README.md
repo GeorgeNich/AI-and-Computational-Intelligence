@@ -26,7 +26,7 @@ Welcome to the AI and Computational Intelligence repository. This repository is 
 To explore each project:
 1. Clone this repository:
     ```bash
-    git clone https://github.com/GeorgeNich/Final-Project-Reinforcement-Learning-Investigation.git
+    git clone https://github.com/GeorgeNich/AI-and-Computational-Intelligence.git
 
 2. Navigate to the individual project directories.
 3. Follow the instructions in the respective `README.md` files for setup and running the projects.
