@@ -1,6 +1,6 @@
 # AI and Computational Intelligence
 
-Welcome to the AI and Computational Intelligence repository. This repository is a collection of Problem-Based Learning (PBL) projects, each focusing on different aspects of artificial intelligence, including fuzzy logic, the Knight's Tour problem, and the Game of Nim. These projects demonstrate practical applications and theoretical concepts in AI and computational intelligence.
+Welcome to the AI and Computational Intelligence repository. This repository is a comprehensive collection of Problem-Based Learning (PBL) projects, each delving into different realms of artificial intelligence. Covering a range of topics from fuzzy logic and the Knight's Tour problem to the Game of Nim and reinforcement learning challenges, these projects blend practical applications with theoretical insights in AI and computational intelligence.
 
 ## Projects Overview
 
@@ -22,21 +22,34 @@ Welcome to the AI and Computational Intelligence repository. This repository is 
 - **Key Features**: AI opponent using the Minimax algorithm, configurable game settings, and strategic gameplay.
 - [Read More](PBL%203.%20Game%20of%20Nim/README.md)
 
+### [Final Project: Reinforcement Learning Investigation](Final%20Project%3A%20Reinforcement%20Learning%20Investigation/)
+- **Description**: A series of projects exploring reinforcement learning challenges such as the Cartpole, Mountain Car, and Taxi Problem.
+- **Key Topics**: Application of reinforcement learning techniques, performance analysis, and algorithmic comparison.
+- [Read More](Final%20Project%3A%20Reinforcement%20Learning%20Investigation/README.md)
+
 ## Getting Started
 To explore each project:
 1. Clone this repository:
     ```bash
     git clone https://github.com/GeorgeNich/AI-and-Computational-Intelligence.git
-
+    ```
 2. Navigate to the individual project directories.
 3. Follow the instructions in the respective `README.md` files for setup and running the projects.
 
 ## Prerequisites
 - Python 3.x
-- Relevant Python libraries as specified in each project's requirements (e.g., `numpy`, `matplotlib`, `gym (deprecated for Gymnasiun unfortunately)`, `tkinter`).
-
-## Contributing
-Contributions to any of the projects are welcome. If you have suggestions, improvements, or bug fixes, feel free to fork the repository and submit a pull request.
+- Relevant Python libraries as specified in each project's requirements (e.g., `numpy`, `matplotlib`, `gym`, `tkinter`).
 
 ## Acknowledgments
-Special thanks to all the resources and individuals that contributed to the knowledge and tools used in these projects. Your contributions to the field of AI and Reinforcement Learning are immensely appreciated.
+This project has been greatly enriched and influenced by a variety of sources in the field of Reinforcement Learning. Special thanks to the following authors and their valuable contributions:
+
+- [Brendan Martin, S. K., and others](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openaigym/)
+- [Fakhry, A., and others](https://medium.com/swlh/using-q-learning-for-openais-cartpole-v1-4a216ef237df)
+- [Frans, K., and others](https://github.com/kvfrans/openai-cartpole)
+- [Hayes, G., and others](https://towardsdatascience.com/getting-started-with-reinforcement-learning-and-open-aigym-c289aca874f)
+- [Ihvy, L., and others](https://github.com/lhvy/Taxi-v3-Q-Learning)
+
+Their insights and information have been instrumental in the development and understanding of the strategies and algorithms implemented in this project.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
