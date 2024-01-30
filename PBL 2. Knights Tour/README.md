@@ -1,6 +1,4 @@
-# AI and Computational Intelligence
-
-## PBL2: The Knight's Tour
+# PBL2: The Knight's Tour
 
 ![Knight's Tour GUI](knight_tour_demo.gif)
 
